@@ -24,7 +24,7 @@ The project utilizes the [Blood Cell Count and Detection (BCCD) Dataset](https:/
 
 In this section, we delve into the Generative Adversarial Network (GAN) responsible for generating synthetic blood cell images. The GAN comprises a generator and a discriminator that work in tandem to produce high-quality synthetic images. It increases the total dataset size to 1200 (300 images per WBC type.)
 
-![GAN Generated Image](path/to/your/image.png)
+![GAN Generated Image](https://github.com/rupashi97/WBC-GAN-Enhancement/blob/main/gan-image.png)
 
 *Figure: Examples of synthetic WBC images generated using our GAN model.*
 
