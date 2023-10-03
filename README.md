@@ -28,4 +28,4 @@ An ablation study was conducted with the following configurations:
 - GAN-Augmented Data
 - GAN-Augmented + Traditionally Augmentated Data
 
-For an in-depth explanation and results, please refer to the [detailed report](your-report-link-here).
+For an in-depth explanation and results, please refer to the [detailed report](https://github.com/rupashi97/WBC-GAN-Enhancement/blob/main/ECE_176___Final_Report.pdf).
