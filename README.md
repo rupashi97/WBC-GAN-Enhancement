@@ -20,6 +20,17 @@ b. General Adversarial Networks (GANs) for synthetic white blood cell image gene
 
 The project utilizes the [Blood Cell Count and Detection (BCCD) Dataset](https://www.kaggle.com/datasets/paultimothymooney/blood-cells). This dataset includes 373 images of white blood cells, categorized into four classes: Eosinophil, Lymphocyte, Monocyte, and Neutrophil. Basophils are not considered due to insufficient sample size.
 
+## GAN Generation
+
+In this section, we delve into the Generative Adversarial Network (GAN) responsible for generating synthetic blood cell images. The GAN comprises a generator and a discriminator that work in tandem to produce high-quality synthetic images. It increases the total dataset size to 1200 (300 images per WBC type.)
+
+![GAN Generated Image](path/to/your/image.png)
+
+*Figure: Examples of synthetic WBC images generated using our GAN model.*
+
+The image quality could be further enhanced by employing a more sophisticated GAN architecture.
+
+
 ## Ablation Study
 
 An ablation study was conducted with the following configurations:
